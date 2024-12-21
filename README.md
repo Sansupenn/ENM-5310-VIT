@@ -1,5 +1,5 @@
 # ENM-5310-VIT
-# Vision Transformer Experiments  
+# Vision Transformer 
 
 This repository contains two Colab notebooks that demonstrate the implementation of Vision Transformers (ViT) on datasets such as **MNIST**, **Fashion MNIST**, and **CIFAR-10**. We applied techniques like **regularization**, **data augmentation**, and **hyperparameter tuning** to achieve improved accuracy scores.  
 
